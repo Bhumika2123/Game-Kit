@@ -7,6 +7,6 @@ PS :- You need to have tkinter library
 
 # Info
 GUI made using Tkinter library.\
-Ticktactoemodule.py contains all the code for tictactoe game and jumblewordsmodule.py contains all the code of jumblewords game each having a function playtictactoe() and playjumblewords() respectively to start the game which are furthur imported in main.py which maps the functions with the play button. 
+Rockpaperscissormodule.py contains all the code for Rock Paper Scissor game, Ticktactoemodule.py contains all the code for tictactoe game and jumblewordsmodule.py contains all the code of jumblewords game each having a function playtictactoe() and playjumblewords() respectively to start the game which are furthur imported in main.py which maps the functions with the play button. 
 
 # Creator - Bhumika Makhija
